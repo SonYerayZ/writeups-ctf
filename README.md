@@ -6,6 +6,4 @@ Colección de writeups de los CTFs en los que he participado. Aquí documento el
 
 Si tienes alguna pregunta o corrección, abre un issue o contáctame directamente.
 
----
 
-> *"The quieter you become, the more you are able to hear."* – Kali Linux
