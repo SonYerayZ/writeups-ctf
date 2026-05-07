@@ -8,7 +8,7 @@ Colección de writeups de los CTFs en los que he participado. Aquí documento el
 |---------|------------|------------|---------|
 | First Hacking | DockerLabs | Muy fácil | [writeup](./ctf/FirstHacking/writeup.md) |
 | LupinOne | VulnHub | Medium | [writeup](./ctf/LupinOne/WriteUp_LupinOne.pdf) |
-| DevGuru | VulnHub | Medium | [writeup](./ctf/DevGuru/WriteUp_LupinOne.pdf) |
+| DevGuru | VulnHub | Medium | [writeup](./ctf/DevGuru/WriteUp_WriteUp_DevGuru.pdf) |
 
 ## 📬 Contacto
 
