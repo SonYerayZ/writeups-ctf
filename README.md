@@ -4,9 +4,10 @@ Colección de writeups de los CTFs en los que he participado. Aquí documento el
 
 ## 📋 Índice de máquinas
  
-| Máquina | Plataforma | Dificultad | Técnicas | Writeup |
+| Máquina | Plataforma | Dificultad  Writeup |
 
-| First Hacking | DockerLabs |  Muy fácil | Explotación de vsftpd 2.3.4 | [writeup](./ctf/FirstHacking/writeup.md) |
+| First Hacking | DockerLabs |  Muy fácil | [writeup](./ctf/FirstHacking/writeup.md) |
+| LupinOne | VulnHub |  Medium | [writeup](./ctf/LupinOne/writeup.md) |
 ## 📬 Contacto
 
 Si tienes alguna pregunta o corrección, abre un issue o contáctame directamente.
